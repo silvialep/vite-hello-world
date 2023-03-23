@@ -2,7 +2,7 @@
 
 <template>
     <div>
-        <img src="../../public/04.webp" alt="">
+        <img src="../../04.webp" alt="">
     </div>
 </template>
 
